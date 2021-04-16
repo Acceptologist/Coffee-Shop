@@ -23,7 +23,6 @@ npm install
 
 >_tip_: **npm i** is shorthand for **npm install**
 
-## Required Tasks
 
 ### Configure Enviornment Variables
 
